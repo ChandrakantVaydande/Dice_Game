@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    background-color: rgb(211, 211, 120);
+    position: relative;
+}
+
+.Container {
+    height: 100vh;
+    width: 100%;
+    position: absolute;
+    top: auto;
+    left: 200px;
+
+}
+
+.dice .img {
+    display: flex;
+    align-items: center;
+    height: 300px;
+    width: 300px;
+    margin: auto;
+
+}
+
+.dice .img1 {
+    display: flex;
+    align-items: center;
+    height: 300px;
+    width: 300px;
+    margin: auto;
+
+}
